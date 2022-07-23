@@ -1,0 +1,2 @@
+<div class="place__container container grid">
+</div>
